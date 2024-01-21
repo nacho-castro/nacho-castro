@@ -1,4 +1,4 @@
-![image](https://github.com/nacho-castro/nacho-castro/assets/116680164/92dd6004-b5f9-4e49-a3ee-e14345a137e8)### Hi there 👋
+### Hi there 👋
 <br>
 Hi! I'm Ignacio, a Systems Engineering student at UTN. I love technology and learning something new every day. I'm self-taught. I started programming and researching on my own.
 
