@@ -2,7 +2,7 @@
 
 Hi! I'm Ignacio, a Systems Engineering student at UTN. I love technology and learning something new every day. I'm self-taught. I started programming and researching on my own.
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/angularimage.png?raw=true"></code>
 <code><img height="20" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/jsimage.png?raw=true"></code>
