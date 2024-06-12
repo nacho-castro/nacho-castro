@@ -4,16 +4,19 @@ I'm a Systems Engineering student at UTN. I love technology and learning somethi
 
 <h1>🛠️ Languages and tools:</h1>
 
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/angularimage.png?raw=true"></code>
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/jsimage.png?raw=true"></code>
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/htmlimage.png?raw=true"></code>
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/cssimage.png?raw=true"></code>
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/javaimage.jpg?raw=true"></code>
-<code><img height="35" src="https://github.com/nacho-castro/nacho-castro/blob/main/images/cimage.png?raw=true"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+      </div>
+      
 <h1>🌐 Social Media</h1>
 
 📧 E-mail: **ignaciocastroplanas@gmail.com**
