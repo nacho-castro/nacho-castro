@@ -19,11 +19,9 @@ I'm a Systems Engineering student at UTN. I love technology and learning somethi
       
 <h1>🌐 Social Media</h1>
 
-📧 E-mail: **ignaciocastroplanas@gmail.com**
-<br>
-💻 Portfolio: _https://portfolio-ignacio-castro.web.app/_
-<br>
-💼 LinkedIn: https://www.linkedin.com/in/ignacio-castro-p/
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square)](https://portfolio-ignacio-castro.web.app/)
+[![Email](https://img.shields.io/badge/Email-contact-red?style=flat-square)](mailto:ignaciocastroplanas@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-castro-p/) 
 
 Feel free to explore my repositories and connect with me. Let's learn and grow together! 🚀✨
 
