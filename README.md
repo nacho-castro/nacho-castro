@@ -20,8 +20,19 @@ I'm a Systems Engineering student at UTN. I love technology and learning somethi
 </div>
 
 <h1>🌐 Social Media</h1>
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square)](https://portfolio-ignacio-castro.web.app/)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:ignaciocastroplanas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-castro-p/)
+<div align="left">
+  <a href="https://portfolio-ignacio-castro.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-visit-black?style=flat-square" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="mailto:ignaciocastroplanas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red&style=flat-square" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/ignacio-castro-p/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/IgnacioCastroP" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+  </a>
+</div>
 
 Feel free to explore my repositories and connect with me. Let's learn and grow together! 🚀✨
