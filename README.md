@@ -30,7 +30,7 @@ I'm a Systems Engineering student at UTN. I love technology and learning somethi
   <a href="https://www.linkedin.com/in/ignacio-castro-p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="https://github.com/IgnacioCastroP" target="_blank">
+  <a href="https://github.com/nacho-castro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
   </a>
 </div>
